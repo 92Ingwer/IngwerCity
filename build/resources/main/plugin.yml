@@ -1,0 +1,23 @@
+name: IngwerCity
+version: '1.0'
+main: org.kim.ingwerCity.IngwerCity
+api-version: '1.21'
+authors: [ 92Ingwer ]
+
+commands:
+  unban:
+  punish:
+  navi:
+  bank:
+  job:
+  fcreate:
+  fset:
+  finvite:
+  f:
+  fbank:
+  funinvite:
+  setrank:
+  stats:
+  fsettings:
+  startjob:
+  quitjob:
